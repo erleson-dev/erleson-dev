@@ -1,6 +1,6 @@
 ##  Hi! I am Erleson Sarmento 👋
 
-- 🌱 I’m currently learning Javascript,Typescript,React Native
+- 🌱 I’m currently learning Javascript, Typescript, React Native
 - 📫 How to reach me: erleson11silva@gmaqil.com
 - 😄 Pronouns: ele/dele
 
